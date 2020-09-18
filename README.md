@@ -6,9 +6,9 @@ I done a several programs that has their own functionality. The Facedetection.py
 
 # Installations
 Install opencv using pip :
-'''
+```
 pip install opencv-python
-'''
+```
 the remaining packages and modules that we used so far are no need to install 
 
 # Usage
